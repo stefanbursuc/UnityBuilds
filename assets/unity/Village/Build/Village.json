@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Village.data.unityweb",
+"asmCodeUrl": "Village.asm.code.unityweb",
+"asmMemoryUrl": "Village.asm.memory.unityweb",
+"asmFrameworkUrl": "Village.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
